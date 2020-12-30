@@ -1,7 +1,8 @@
 # Responsive Web Design Projects - Build a Personal Portfolio Webpage
-💾 You can preview it here: 
+💾 You can preview it here: [Personal Portfolio Page](https://portfolio-fcc-page.netlify.app)
 <br>
 <br>
+<img src="https://pro2-bar-s3-cdn-cf4.myportfolio.com/f39ec908-8957-4c67-a6b7-e3bc528bb6e2/fe3c5b65-5a13-4cfc-8fcc-a5e1358323ac_rw_1920.png?h=dd69211aafba5ed6a07e1b069f4ecb5b">
 
 <strong>Objective: </strong>
 
